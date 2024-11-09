@@ -10,3 +10,19 @@ body {
     color-scheme: dark;
   }
 }
+
+.ant-menu-item-selected {
+  background-color: transparent !important;
+  color: #fff; /* Optional: to keep text color white */
+  font-weight: 700;
+}
+
+.ant-menu-item:hover {
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.1
+  ) !important; /* Optional: change hover effect */
+  font-weight: 600;
+}

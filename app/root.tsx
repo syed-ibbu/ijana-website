@@ -1,3 +1,4 @@
+// app/root.tsx
 import {
   Links,
   Meta,
@@ -5,8 +6,8 @@ import {
   Scripts,
   ScrollRestoration,
 } from "@remix-run/react";
-import type { LinksFunction } from "@remix-run/node";
-
+import { LinksFunction } from "@remix-run/node";
+import { ConfigProvider } from "antd";
 import "./tailwind.css";
 
 export const links: LinksFunction = () => [
@@ -41,5 +42,20 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  return <Outlet />;
+  return (
+    <ConfigProvider
+      theme={{
+        token: {
+          // Seed Token
+          colorPrimary: "#00b96b",
+          borderRadius: 2,
+
+          // Alias Token
+          colorBgContainer: "#f6ffed",
+        },
+      }}
+    >
+      <Outlet />
+    </ConfigProvider>
+  );
 }
