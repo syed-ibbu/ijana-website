@@ -7,7 +7,7 @@ import {
   ScrollRestoration,
 } from "@remix-run/react";
 import { LinksFunction } from "@remix-run/node";
-import { ConfigProvider } from "antd";
+import { ConfigProvider, Layout as AntdLayout } from "antd";
 import "./tailwind.css";
 
 export const links: LinksFunction = () => [
@@ -55,7 +55,9 @@ export default function App() {
         },
       }}
     >
-      <Outlet />
+      <AntdLayout style={{ minHeight: "100vh" }}>
+        <Outlet />
+      </AntdLayout>
     </ConfigProvider>
   );
 }
