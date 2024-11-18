@@ -1,0 +1,243 @@
+[
+  {
+    "name": "Dr. Ansuman Bhattacharya",
+    "role": "Assistant Professor",
+    "department": "Department of Computer Science and Engineering",
+    "collegeName": "Indian Institute of Technology (ISM), Dhanbad, Jharkhand, India",
+    "mailID": "ansuman@iitism.ac.in",
+    "imgSrc": "./Ansuman.png"
+  },
+  {
+    "name": "Dr. Arunkumar T",
+    "role": "Professor",
+    "department": "School of Computer Science and Engineering",
+    "collegeName": "Vellore Institute of Technology, India",
+    "mailID": "arunkumart@vit.ac.in",
+    "imgSrc": "./Arunkumar.png"
+  },
+  {
+    "name": "Dr. Attlee M.Gamundani",
+    "role": "Senior Lecturer",
+    "department": "Computer Science",
+    "collegeName": "Namibia University Science and Technology, Windhoek, Namibia",
+    "mailID": "agamundani@nust.na",
+    "imgSrc": "./Gamundani.png"
+  },
+  {
+    "name": "Dr. Basel Mohammed Ali Banilsmail",
+    "role": "Assistant Professor",
+    "department": "Oman College of Management & Technology",
+    "collegeName": "320 Barka, Sultanate of Oman",
+    "mailID": "basel.baniismail@omancollege.edu.om",
+    "imgSrc": "./Basel.png"
+  },
+
+  {
+    "name": "Dr. Dimitrios A. Karras",
+    "role": "Assistant Professor",
+    "department": "Oman College of Management & Technology",
+    "collegeName": "320 Barka, Sultanate of Oman",
+    "mailID": "dakarras@uoa.gr",
+    "imgSrc": "./Karras.jpg"
+  },
+  {
+    "name": "Dr. Hazem Mohd Al Migdady",
+    "role": "Assistant Professor",
+    "department": "Oman College of Management & Technology",
+    "collegeName": "320 Barka, Sultanate of Oman",
+    "mailID": "hazem.migdady@omancollege.edu.om",
+    "imgSrc": "./Hazem.png"
+  },
+  {
+    "name": "Dr. Kelvin Kabeti Omieno",
+    "role": "Dean",
+    "department": "School of Computing and Information Technology",
+    "collegeName": "Kaimosi Friends University, Kenya",
+    "mailID": "komieno@kafuco.ac.ke",
+    "imgSrc": "./Kelvin.jpg"
+  },
+  {
+    "name": "Dr. Koffka Khan",
+    "role": "Lecturer",
+    "department": "Department of Computer and Information Technology",
+    "collegeName": "Trinidad and Tobago, W.I.",
+    "mailID": "Koffka.Khan@sta.uwi.edu",
+    "imgSrc": "./Koffka.png"
+  },
+  {
+    "name": "Dr. D.H.Manjaiah",
+    "role": "Professor & Chairman",
+    "department": "Department of PG Studies & Research in Computer Science",
+    "collegeName": "Mangalore University, India",
+    "mailID": "drmdhmu@gmail.com / manju@mangaloreuniversity.ac.in",
+    "imgSrc": "./manjaiah.jpg"
+  },
+  {
+    "name": "Dr. Mohammad Motiur Rahman",
+    "role": "Professor ",
+    "department": "Mawlana Bhashani Science and Technology",
+    "collegeName": "University (MBSTU), Bangladesh",
+    "mailID": "mm73rahman@gmail.com",
+    "imgSrc": "./Rahman.png"
+  },
+  {
+    "name": "Dr. Mona M. Nasr",
+    "role": " Associate Professor",
+    "department": "Faculty of Computers and Information",
+    "collegeName": "Helwan University, Egypt",
+    "mailID": "drmona_nasr@fci.helwan.edu.eg",
+    "imgSrc": "./Mona.png"
+  },
+  {
+    "name": "Dr. Muhammad Ali Qureshi",
+    "role": " Associate Professor & Chairman",
+    "department": "Department of Information & Communication Engineering",
+    "collegeName": "The Islamia University of Bahawalpur, Pakistan",
+    "mailID": "ali.qureshi@iub.edu.pk",
+    "imgSrc": "./Qureshi.png"
+  },
+  {
+    "name": "Dr. Muhammad Sharif",
+    "role": " Associate Professor",
+    "department": "Department of Computer Science",
+    "collegeName": "COMSATS University, Wah Campus, Pakistan",
+    "mailID": "sharif@ciitwah.edu.pk",
+    "imgSrc": "./Sharif.png"
+  },
+  {
+    "name": "Dr. M.Nandhini",
+    "role": " Associate Professor ",
+    "department": "School of Engineering & Technology",
+    "collegeName": "Pondicherry University, Kalapet, Puducherry",
+    "mailID": "mnandhini.csc@pondiuni.edu.in",
+    "imgSrc": "./nandhini.png"
+  },
+  {
+    "name": "Dr. Narottam Chand Kaushal",
+    "role": " Associate Professor ",
+    "department": "National Institute of Technology",
+    "collegeName": "Hamirpur (HP)",
+    "mailID": "nar@nith.ac.in",
+    "imgSrc": "./Kaushal.png"
+  },
+  {
+    "name": "Dr. Nazi Tabatabaei Yazdi",
+    "role": " Senior Tutor ",
+    "department": "Computer Science/Information Technology",
+    "collegeName": "Massey University, New Zealand",
+    "mailID": "N.Tabatabaei-Yazdi@massey.ac.nz",
+    "imgSrc": "./Yazdi.png"
+  },
+  {
+    "name": "Dr. Padmavathi",
+    "role": " Professor ",
+    "department": "Avinashilingam University",
+    "collegeName": "Coimbatore, India",
+    "mailID": "padmavathi_cs@avinuty.ac.in",
+    "imgSrc": "./cs_padmavathi.png"
+  },
+  {
+    "name": "Dr. Rama Murthy",
+    "role": " Professor ",
+    "department": "Department of Computer Science and Engineering",
+    "collegeName": "Mahindra University, India",
+    "mailID": "rama.murthy@mechyd.ac.in",
+    "imgSrc": "./Rama_Murthy.png"
+  },
+  {
+    "name": "Dr. Rita Ismailova",
+    "role": " Associate Professor ",
+    "department": "Kyrgyz Turkish Manas University",
+    "collegeName": "Bishkek, Kyrgyz Republic",
+    "mailID": "rita.ismailova@manas.edu.kg",
+    "imgSrc": "./Rita.png"
+  },
+  {
+    "name": "Dr. Samah Osama M. Kamel",
+    "role": " Associate Professor ",
+    "department": "Electronics Research Institute",
+    "collegeName": "Cairo, Egypt",
+    "mailID": "samah_n2003@yahoo.com",
+    "imgSrc": "./Samah_Osama.png"
+  },
+  {
+    "name": "Dr. Savitri Bevinakoppa",
+    "role": " Professor ",
+    "department": "Melbourne Institute of Technology",
+    "collegeName": "Australia",
+    "mailID": "sbevinakoppa@mit.edu.au",
+    "imgSrc": "./Savitr.png"
+  },
+  {
+    "name": "Dr. Stefano Cirillo",
+    "role": " Associate Professor ",
+    "department": "University of Salemo",
+    "collegeName": "Italy",
+    "mailID": "scirillo@unisa.it",
+    "imgSrc": "./StefanoCirillo.png"
+  },
+  {
+    "name": "Dr. Stephen G. Fashoto",
+    "role": " Senior Lecturer ",
+    "department": "University of Swaziland",
+    "collegeName": "Kwaluseni, Swaziland",
+    "mailID": "sgfashoto@uniswa.sz",
+    "imgSrc": "./Stephen_G.png"
+  },
+  {
+    "name": "Dr. SubbaRao",
+    "role": " Professor, Chairman ",
+    "department": "Sri Venkateswara University",
+    "collegeName": "Tirupati, AP, India",
+    "mailID": "subbarao_chdv@hotmail.com",
+    "imgSrc": "./SubbaRao.png"
+  },
+  {
+    "name": "Dr. Sucheta Panda",
+    "role": " Associate Professor ",
+    "department": "Veer Surendra Sai University of Technology (VSSUT)",
+    "collegeName": "Burla, Sambalpur, Odisha",
+    "mailID": "suchetapanda_mca@vssut.ac.in",
+    "imgSrc": "./Sucheta_Panda.png"
+  },
+  {
+    "name": "Dr. Tong Kwong Bun Bruce",
+    "role": " Senior Lecturer ",
+    "department": "The Open University of Hong Kong",
+    "collegeName": "Hong Kong",
+    "mailID": "kbtong@ouhk.edu.hk",
+    "imgSrc": "./Tong.png"
+  },
+  {
+    "name": "Dr. Wagner Igarash",
+    "role": " Adjunct Professor ",
+    "department": "State University of Maringa",
+    "collegeName": "Brazil",
+    "mailID": "wigarashi@uem.br",
+    "imgSrc": "./wagner.gif"
+  },
+  {
+    "name": "Dr. Young-Joo Suh",
+    "role": " Professor ",
+    "department": "Pohang University of Science and Technology (POSTECH)",
+    "collegeName": "Pohang 790-784, Korea",
+    "mailID": "yjsuh@postech.ac.kr",
+    "imgSrc": "./Young_Joo.png"
+  },
+  {
+    "name": "Dr. Yusnani Mohd Yussoff",
+    "role": " Associate Professor & Lecturer ",
+    "department": "University Teknologi MARA Shah Alam, Selangor",
+    "collegeName": "Malaysia",
+    "mailID": "yusna233@uitm.edu.my",
+    "imgSrc": "./Yusnani_Mohd.png"
+  },
+  {
+    "name": "Dr. Zurina Mohd Hanapi",
+    "role": " Senior Lecturer ",
+    "department": "Faculty of Computer Science & Information Technology",
+    "collegeName": "University Putra, Malaysia",
+    "mailID": "zurina@fsktm.upm.edu.my",
+    "imgSrc": "./Zurina_Mohd.png"
+  }
+]

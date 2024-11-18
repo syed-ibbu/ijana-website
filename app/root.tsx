@@ -43,21 +43,21 @@ export function Layout({ children }: { children: React.ReactNode }) {
 
 export default function App() {
   return (
-    <ConfigProvider
-      theme={{
-        token: {
-          // Seed Token
-          colorPrimary: "#00b96b",
-          borderRadius: 2,
+    // <ConfigProvider
+    //   theme={{
+    //     token: {
+    //       // Seed Token
+    //       colorPrimary: "#00b96b",
+    //       borderRadius: 2,
 
-          // Alias Token
-          colorBgContainer: "#f6ffed",
-        },
-      }}
-    >
-      <AntdLayout style={{ minHeight: "100vh" }}>
-        <Outlet />
-      </AntdLayout>
-    </ConfigProvider>
+    //       // Alias Token
+    //       colorBgContainer: "#f6ffed",
+    //     },
+    //   }}
+    // >
+    <AntdLayout style={{ minHeight: "100vh" }}>
+      <Outlet />
+    </AntdLayout>
+    // </ConfigProvider>
   );
 }

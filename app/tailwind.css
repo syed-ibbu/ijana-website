@@ -26,3 +26,37 @@ body {
   ) !important; /* Optional: change hover effect */
   font-weight: 600;
 }
+
+.blinking-heart {
+  animation: blinkHeart 1s infinite;
+}
+
+@keyframes blinkHeart {
+  0% {
+    fill: red;
+    opacity: 1;
+  }
+  50% {
+    fill: red;
+    opacity: 0;
+  }
+  100% {
+    fill: red;
+    opacity: 1;
+  }
+}
+
+/* Example CSS for better mobile responsiveness */
+@media (max-width: 600px) {
+  .ant-card-inner {
+    padding: 10px;
+  }
+
+  .ant-typography {
+    font-size: 16px; /* Smaller font size on mobile */
+  }
+
+  ul {
+    padding-left: 15px; /* Adjust padding for mobile */
+  }
+}
