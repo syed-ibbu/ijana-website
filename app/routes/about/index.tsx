@@ -1,5 +1,6 @@
 import { Footer, Header } from "~/components";
-import { Card, Layout, Row, Typography } from "antd";
+import { Card, Divider, Layout, Row, Typography } from "antd";
+import Faq from "./faq";
 
 export default function About() {
   return (
@@ -32,9 +33,17 @@ export default function About() {
                 fontSize: "20px",
               }}
             >
-              Special Issues
+              FAQs
             </Typography>
           </Row>
+          <Faq />
+          <Divider
+            variant="dashed"
+            type="horizontal"
+            style={{
+              borderColor: "#e0e0e0",
+            }}
+          />
         </Card>
       </Layout.Content>
       <Footer />

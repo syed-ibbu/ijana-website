@@ -82,6 +82,14 @@ export default function Index() {
               borderColor: "#e0e0e0",
             }}
           />
+          <Action />
+          <Divider
+            variant="dashed"
+            type="horizontal"
+            style={{
+              borderColor: "#e0e0e0",
+            }}
+          />
           <Row justify="center">
             <Typography
               style={{
@@ -93,14 +101,6 @@ export default function Index() {
             </Typography>
           </Row>
           <AimScope />
-          <Divider
-            variant="dashed"
-            type="horizontal"
-            style={{
-              borderColor: "#e0e0e0",
-            }}
-          />
-          <Action />
           <Divider
             variant="dashed"
             type="horizontal"
